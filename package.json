@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@netlify/plugin-nextjs": "^3.3.0"
+  }
+}
